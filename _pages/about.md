@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-## Naukowiec, Psycholog i logopedka.
-Psycholog i logopedka. Absolwentka Psychologii na Wydziale Nauk Społecznych oraz Filologii polskiej na Wydziale Filologii Polskiej i Klasycznej (UAM w Poznaniu). Absolwentka studiów podyplomowych z zakresu logopedii szkolnej, terapii logopedycznej i neurokognitywistyki, Neuropsychologia kliniczna. Ukończyła szkolenia z zakresu treningu umiejętności społecznych i pracy z grupą w nurcie Gestallt (szkolenie 2-letnie), diagnozy neuropsychologicznej dziecka, diagnozy zaburzeń osobowości oraz Sommerschule fur Neurorehabilitation. W trakcie specjalizacji z psychologii klinicznej.
+## Naukowiec, psycholog i logopeda.
+ Absolwentka Psychologii na Wydziale Nauk Społecznych oraz Filologii polskiej na Wydziale Filologii Polskiej i Klasycznej (UAM w Poznaniu). Absolwentka studiów podyplomowych z zakresu logopedii szkolnej, terapii logopedycznej i neurokognitywistyki, Neuropsychologia kliniczna. Ukończyła szkolenia z zakresu treningu umiejętności społecznych i pracy z grupą w nurcie Gestallt (szkolenie 2-letnie), diagnozy neuropsychologicznej dziecka, diagnozy zaburzeń osobowości oraz Sommerschule fur Neurorehabilitation. W trakcie specjalizacji z psychologii klinicznej.
 
 Praktykę psychologiczną prowadzi od roku 2009. Główne obszary to diagnoza i terapia dziecka, praca z osobami niepełnosprawnymi i chorymi przewlekle, psychoedukacja i szkolenia.
 
